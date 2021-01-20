@@ -1,1 +1,1 @@
-This recipe will show how to makea pizza
+This recipe will show how to make a pizza
